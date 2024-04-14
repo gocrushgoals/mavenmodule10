@@ -30,6 +30,9 @@ Copy the source code from the GitHub page at https://github.com/gocrushgoals/mav
 ## Usage
 
 Run the application with the command node index.js. The logo will be generated in the "logo.svg" file. You may view the logo in the browser.
+walkthrough video:
+[Untitled_ Apr 14, 2024 5_15 PM.webm](https://github.com/gocrushgoals/mavenmodule10/assets/157322992/e14bd379-ad2f-4b78-91c4-21a92234073c)
+
 
 ## Credits
 
